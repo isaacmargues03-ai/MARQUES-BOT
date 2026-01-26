@@ -1,13 +1,14 @@
 {
+  "owner": "553496407586@s.whatsapp.net",
+  "classificados": [
+    "217463522373647@lid",
+    "166812754911326@lid"
+  ],
+  "gruposDesativados": [],
   "antilink": {},
-  "antilinkapaga": {
-    "120363420793235261@g.us": true
-  },
-  "rever": {
-    "120363419197274996@g.us": true
-  },
-  "somenteadm": {},
-  "parceiroId": "129385906606179@lid",
+  "antilinkApaga": [
+    "120363424026290830@g.us"
+  ],
   "advertencias": {
     "120363424026290830@g.us": {
       "166812754911326@lid": 2
@@ -18,13 +19,36 @@
     },
     "120363419197274996@g.us": {
       "29262300053654@lid": 2
-    }
+    },
+    "166812754911326@lid": 1
   },
+  "parceiros": [
+    "166812754911326@lid",
+    "166812754911326@lid"
+  ],
+  "bemvindos": {},
+  "adeus": {
+    "120363424026290830@g.us": "KKKKK"
+  },
+  "parceriasNomes": [
+    "@166812754911326"
+  ],
   "bemVindos": {
-    "120363424026290830@g.us": "kakaka",
+    "120363424026290830@g.us": "",
     "120363420793235261@g.us": "Victor"
   },
-  "adeus": {},
+  "antilinkapaga": {
+    "120363420793235261@g.us": true,
+    "120363424026290830@g.us": false
+  },
+  "rever": {
+    "120363419197274996@g.us": true,
+    "120363424026290830@g.us": true
+  },
+  "somenteadm": {
+    "120363424026290830@g.us": false
+  },
+  "parceiroId": "129385906606179@lid",
   "prefixos": {},
   "listaParcerias": {
     "120363420793235261@g.us": [
